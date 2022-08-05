@@ -5,7 +5,7 @@ Welcome to my page :)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Heitor+Louzeiro;I'm+22+years+old;I+from+Brasil,+PI;I+study+computer+science+at+UESPI;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align='center'>
-  Back End Developer
+  Back End Developer Django
 </p>
 <div align='center'>  
   <a href="https://www.instagram.com/heitorlouzeiro/" target="_blank">
@@ -20,9 +20,9 @@ Welcome to my page :)
 </div>
 
 
-### 📈 Minhas Estatísticas
+### 📈 My Statistics
 
-| Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
+| My Statistics                                                                                                                                                            | Main Languages                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=heitorlouzeiro&show_icons=true&hide_border=true&count_private=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heitorlouzeiro&langs_count=10&count_private=true&hide_border=true&theme=dracula&layout=compact) |
 
