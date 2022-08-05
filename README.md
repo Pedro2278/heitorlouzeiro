@@ -1,13 +1,13 @@
 <h1 align='center'>
-  Hi, Heitor Louzeior
-  <br/>
-  Welcome to my page :)
+Welcome to my page :)
 </h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Heitor+Louzeiro;I'm+22+years+old;I+from+Brasil,+PI;I+study+computer+science+at+UESPI;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align='center'>
   Back End Developer
 </p>
-<div>  
+<div align='center'>  
   <a href="https://www.instagram.com/heitorlouzeiro/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a> 
@@ -19,7 +19,6 @@
   </a> 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Heitor+Louzeiro;I'm+22+years+old;I+from+Brasil,+PI;I+study+computer+science+at+UESPI;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ### 📈 Minhas Estatísticas
 
@@ -28,7 +27,7 @@
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=heitorlouzeiro&show_icons=true&hide_border=true&count_private=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heitorlouzeiro&langs_count=10&count_private=true&hide_border=true&theme=dracula&layout=compact) |
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MthAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=heitorlouzeiro&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
 </p>
 
 
