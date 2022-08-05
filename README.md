@@ -17,7 +17,7 @@
 <div align="center">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=heitorlouzeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorlouzeiro&layout=compact&langs_count=7&theme=dracula"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorlouzeiro&layout=compact&langs_count=7&theme=dracula"/>
 
 ![Contribution](https://activity-graph.herokuapp.com/graph?username=heitorlouzeiro&theme=gotham&hide_border=true&area=true)
 
