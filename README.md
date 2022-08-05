@@ -1,5 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Heitor+Louzeiro&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<h1 align='center'>
+  Hi, Heitor Louzeior
+  <br/>
+  Welcome to my page :)
+</h1>
 
+<p align='center'>
+  Back End Developer
+</p>
 <div>  
   <a href="https://www.instagram.com/heitorlouzeiro/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
