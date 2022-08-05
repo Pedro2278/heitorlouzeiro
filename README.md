@@ -14,16 +14,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Heitor+Louzeiro;I'm+22+years+old;I+from+Brasil,+PI;I+study+computer+science+at+UESPI;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">
+### 📈 Minhas Estatísticas
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=heitorlouzeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorlouzeiro&layout=compact&langs_count=7&theme=dracula"/>
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=heitorlouzeiro&theme=gotham&hide_border=true&area=true)
-
-![Snake](https://github.com/heitorlouzeiro/heitorlouzeiro/blob/output/github-contribution-grid-snake.svg)
-
-</div>
+| Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=heitorlouzeiro&show_icons=true&hide_border=true&count_private=true&theme=dracula) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heitorlouzeiro&langs_count=10&count_private=true&hide_border=true&theme=dracula&layout=compact) |
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MthAlvarez&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15"/>
