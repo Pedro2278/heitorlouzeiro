@@ -2,7 +2,7 @@
 Welcome to my page :)
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Heitor+Louzeiro;I'm+22+years+old;I+from+Brasil,+PI;I+study+computer+science+at+UESPI;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Heitor+Louzeiro;I'm+23+years+old;I+from+Brasil,+PI;I+study+ADS+at+IFPI;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align='center'>
   Back End Developer Django
